@@ -29,7 +29,7 @@ int subLista(int l1[], int tam1, int l2[], int *tam2) {
 
   // Se encontrou a sublista, remove ela
   if (posicao != -1) {
-      for (i = posicao + tam1; i < *tam2; i++) {
+      for (int i = posicao + tam1; i < *tam2; i++) {
           l2[i - tam1] = l2[i];
       }
       *tam2 = *tam2 - tam1;
