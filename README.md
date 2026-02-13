@@ -51,16 +51,16 @@ A disciplina aborda os seguintes tópicos:
     Explore os códigos-fonte e materiais disponíveis.
 
 ## 📞 Contato
+Caso tenha dúvidas ou queira trocar conhecimento, entre em contato!
+📧 **Email:** marcosfsouza.dev@gmail.com
+🐙 **GitHub:** [MarcosF-Souza](https://github.com/MarcosF-Souza)
 
-  Caso tenha dúvidas ou queira trocar conhecimento, entre em contato!
-  📧 Email: marcosfsouza.dev@gmail.com
-  🐙 GitHub: MarcosF-Souza
-  📚 Referências
+## 📚 Referências
 
-      -Livro: Estruturas de Dados e Algoritmos em C – Michael T. Goodrich, Roberto Tamassia
+   - **Livro:** Estruturas de Dados e Algoritmos em C – Michael T. Goodrich, Roberto Tamassia
 
-      -Livro: Algoritmos: Teoria e Prática – Thomas H. Cormen
+   - **Livro:** Algoritmos: Teoria e Prática – Thomas H. Cormen
 
-      -Documentação da Linguagem C: cplusplus.com
+   - **Documentação da Linguagem C:** cplusplus.com
 
 🎯 Bons estudos e boa programação! 🚀
